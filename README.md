@@ -1,2 +1,3 @@
 # Quick-Operations
-Android app
+
+A small game for android...
